@@ -12,6 +12,7 @@ import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchPage;
 
 //updated comment
+//Added more details
 public class SearchTest extends Base {
 	
 	SearchPage searchPage;
